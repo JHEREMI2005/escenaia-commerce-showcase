@@ -96,6 +96,21 @@ My validation process includes:
 - verification of user-facing states
 - rollback-oriented change management when needed
 
+## Technical code samples
+
+A small set of **sanitized, runnable samples derived from the private Commerce/Core implementation** is available in [`demo-code/`](demo-code/).
+
+They demonstrate:
+
+- deterministic payment-provider selection
+- production blocking of TEST payment flows
+- provider-neutral event normalization
+- amount/currency reconciliation
+- fail-closed review on mismatches
+- runnable Node.js QA tests
+
+Live credentials, webhook secrets, production mappings, customer data and private Shopify theme code remain private.
+
 ## Current development focus
 
 - finalizing commercial information architecture
@@ -124,4 +139,4 @@ Cochabamba, Bolivia · Remote
 
 EscenaIA Commerce es la capa comercial del ecosistema EscenaIA. Utiliza Shopify para storefront, catálogo, productos digitales, marketing y checkout, mientras EscenaIA Studio permanece como la aplicación profesional independiente.
 
-Este repositorio sirve como muestra pública de mis habilidades en e-commerce, integración de producto, Shopify a nivel intermedio, marketing digital, QA y desarrollo asistido por IA.
+Este repositorio sirve como muestra pública de mis habilidades en e-commerce, integración de producto, Shopify a nivel intermedio, marketing digital, QA y desarrollo asistido por IA. En `demo-code/` sólo se publican ejemplos técnicos sanitizados.
