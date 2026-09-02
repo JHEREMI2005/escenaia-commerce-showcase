@@ -7,6 +7,40 @@ EscenaIA Commerce is the commercial layer of the EscenaIA ecosystem. It is desig
 
 This repository is a **public portfolio showcase**. It documents the product strategy, e-commerce architecture, marketing approach, and my role without exposing private theme code, credentials, payment configuration, customer data, or proprietary business logic.
 
+## Product screenshots
+
+### Homepage / Commercial Entry Point
+
+![EscenaIA Commerce — Homepage](assets/screenshots/commerce-home.jpg)
+
+**Homepage and product positioning.** The storefront introduces EscenaIA Production System, communicates the 12-module structure and directs users toward the catalog and complete collection.
+
+### Catalog / Modular Product Discovery
+
+![EscenaIA Commerce — Catalog](assets/screenshots/commerce-catalog.jpg)
+
+**Catalog browsing experience.** The commercial interface organizes the production system as connected modules with pricing, availability, module previews and multiple purchase paths.
+
+### Product Detail Page
+
+![EscenaIA Commerce — Product detail page](assets/screenshots/commerce-product-page.jpg)
+
+**Dedicated product page.** A module-specific sales page combines visual presentation, price, product explanation, feature breakdown and actions for cart, Hotmart and QR purchase flows.
+
+### Pre-purchase Product Preview
+
+![EscenaIA Commerce — Product preview](assets/screenshots/commerce-product-preview.jpg)
+
+**Product preview experience.** Users can inspect a sample of the module before purchase, improving transparency and helping them understand what the digital product contains.
+
+### Related Products / Cross-sell
+
+![EscenaIA Commerce — Related products](assets/screenshots/commerce-related-products.jpg)
+
+**Related-product discovery.** The storefront surfaces complementary modules, packs and collections to support navigation across the broader EscenaIA product ecosystem.
+
+> These screenshots show the commercial storefront in active pre-launch development. They are portfolio evidence of the product and UX, not a claim that every payment or launch flow is already commercially complete.
+
 ## Ecosystem model
 
 ```text
@@ -118,12 +152,6 @@ Live credentials, webhook secrets, production mappings, customer data and privat
 - preparing production-ready payment and account flows
 - strengthening Studio integration
 - preparing public launch assets and product demonstrations
-
-## Screenshots
-
-Screenshots and short demos will be added as the public showcase is prepared.
-
-> This repository is a portfolio presentation. It does not contain the complete private Shopify theme, production credentials, payment secrets, customer information, or proprietary EscenaIA source code.
 
 ## About me
 
